@@ -1,6 +1,6 @@
 # 1. Set your details
-GITHUB_USER="YOUR_GITHUB_USERNAME"
-REPO_NAME="YOUR_NEW_REPO_NAME"
+GITHUB_USER="kvngsman"
+REPO_NAME="automation"
 
 # 2. Run the automation sequence
 git init
